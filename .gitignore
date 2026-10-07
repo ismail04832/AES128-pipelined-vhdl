@@ -1,0 +1,14 @@
+# ==========================================
+# Fichiers temporaires & Résidus de compilation
+# ==========================================
+*.bak
+*.cmti
+*.cr.mti
+# ==========================================
+# ModelSim / QuestaSim / Éditeurs
+# ==========================================
+# Fichiers de projet et journaux ModelSim
+*.mpf
+/work/
+/transcript
+*.wlf
